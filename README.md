@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/HyperClipse_32x32.png" width="180" alt="HyperClipse Logo">
+</p>
+
 # HyperClipse AI Engine
 
 > **The creator owns creativity.**
