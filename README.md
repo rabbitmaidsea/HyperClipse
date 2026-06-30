@@ -54,6 +54,99 @@ It simply helps your story remain consistent as it grows.
 
 ---
 
+## How to Use
+
+1. Copy the HyperClipse Runtime.
+2. Open your character in **Emochi**.
+3. Navigate to **Advanced → Scenario**.
+4. Paste the HyperClipse Runtime **above** your existing Scenario.
+5. Save your changes.
+6. Start a **new conversation**.
+
+HyperClipse should be loaded before your existing Scenario so its architectural principles are established before scenario-specific instructions are applied.
+
+---
+
+## Compatibility
+
+HyperClipse is **runtime-agnostic by design** and aims to remain platform-independent.
+
+Version **1.0** has been developed and validated exclusively on **Emochi** using the **Scenario** field.
+
+Other AI platforms are expected to work but have not yet been systematically evaluated. Compatibility should therefore be considered experimental until formally tested.
+
+Future compatibility testing is planned as the project evolves.
+
+---
+
+## Core Features
+
+### Runtime
+
+- ✅ Lightweight Runtime
+- ✅ Modular Architecture
+- ✅ Declarative Runtime Design
+- ✅ One-Responsibility Modules
+- ✅ Platform Independent
+- ✅ Runtime Agnostic
+- ✅ Runtime Integrity
+- ✅ Engineering-Friendly Architecture
+- ✅ Canon-Derived Runtime
+- ✅ Future Expandable
+
+### Character
+
+- ✅ Persistent Character Identity
+- ✅ Persistent Personality
+- ✅ Character Continuity
+- ✅ Believable Character Growth
+- ✅ Relationship Progression
+- ✅ Knowledge Ownership
+- ✅ Hidden Information Preservation
+- ✅ Consistent Character Expression
+
+### World
+
+- ✅ Persistent World State
+- ✅ Living World Simulation
+- ✅ Consequence-Driven Narrative
+- ✅ Persistent History
+- ✅ Persistent Inventory
+- ✅ Object Ownership
+- ✅ Reputation Progression
+
+### Behavior
+
+- ✅ Context-Aware Emotion
+- ✅ Trust-Based Relationships
+- ✅ Progressive Character Development
+- ✅ Consistent Long-Term Behavior
+- ✅ Multi-System Cooperation
+- ✅ Natural Information Flow
+
+### Runtime Integrity
+
+- ✅ Drift Resistance
+- ✅ Continuity Preservation
+- ✅ Runtime Integrity
+- ✅ Cross-Module Consistency
+- ✅ Long Context Stability
+- ✅ Creator Authority
+- ✅ Modular Cooperation
+
+### Engineering
+
+- ✅ Canon Derived
+- ✅ Declarative Invariants
+- ✅ Human Readable
+- ✅ Easily Auditable
+- ✅ Regression Friendly
+- ✅ Bug-Driven Evolution
+- ✅ Modular Expansion
+- ✅ Architecture First
+
+---
+
 ## What HyperClipse Is
 
 HyperClipse is a declarative runtime built from architectural invariants.
@@ -62,11 +155,11 @@ Rather than describing every possible behavior, it defines a compact set of pers
 
 Examples include:
 
-* Identity persists.
-* Trust is earned.
-* Observe before knowing.
-* Relationships evolve gradually.
-* History matters.
+- Identity persists.
+- Trust is earned.
+- Observe before knowing.
+- Relationships evolve gradually.
+- History matters.
 
 Each invariant exists because it solved an observed engine failure during RabbitMaid research.
 
@@ -76,13 +169,13 @@ Each invariant exists because it solved an observed engine failure during Rabbit
 
 HyperClipse intentionally does **not**:
 
-* Write stories.
-* Generate characters.
-* Generate worlds.
-* Replace creator intent.
-* Replace platform infrastructure.
-* Replace memory systems.
-* Implement databases or storage.
+- Write stories.
+- Generate characters.
+- Generate worlds.
+- Replace creator intent.
+- Replace platform infrastructure.
+- Replace memory systems.
+- Implement databases or storage.
 
 HyperClipse is a runtime.
 
@@ -90,25 +183,15 @@ The creator remains the storyteller.
 
 ---
 
-## Compatibility
-
-HyperClipse has been validated on platforms that provide a dedicated **Scenario** (or equivalent system-level prompt) field.
-
-Other prompt locations are expected to function, but have not yet been systematically evaluated.
-
-Different prompt execution models may influence long-term runtime stability.
-
----
-
 ## Development
 
 HyperClipse is derived from **CONSEQUENCE AI 2 Canon**.
 
-The Canon serves as the project's reference architecture and source of truth.
+The Canon serves as the project's **reference architecture** and **source of truth**.
 
 HyperClipse is the executable runtime distilled from that architecture.
 
-Future development remains bug-driven.
+Future development remains **bug-driven**.
 
 New invariants are introduced only when justified by observed engine failures.
 
@@ -118,13 +201,13 @@ New invariants are introduced only when justified by observed engine failures.
 
 Released under the MIT License.
 
-A gift to fellow narrative builders.
+*A gift to fellow narrative builders.*
 
 ---
 
 ## Support
 
-If you'd like to support future RabbitMaid development, Patreon is available.
+Support is available through Patreon.
 
 ---
 
