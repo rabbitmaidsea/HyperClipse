@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="HyperClipse Banner">
+  <img src="assets/Banner.png" width="100%" alt="HyperClipse Banner">
 </p>
 
 # HyperClipse AI Engine
